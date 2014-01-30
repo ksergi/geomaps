@@ -1,5 +1,5 @@
-{"type": "Point", "coordinates": [48.58268604, 2.47839372]}
-{"type": "Point", "coordinates": [-14.85679975, -40.82300041]}
+ { "type": "FeatureCollection",
+    "features": [
 {"type": "Point", "coordinates": [-33.76398905, 18.91893439]}
 {"type": "Point", "coordinates": [-4.85624818, 105.30710818]}
 {"type": "Point", "coordinates": [37.03939039, 35.31493592]}
@@ -4550,3 +4550,5 @@
 {"type": "Point", "coordinates": [55.970893, 37.436681]}
 {"type": "Point", "coordinates": [41.51096358, -5.7536528]}
 {"type": "Point", "coordinates": [21.4685585, 39.2210264]}
+]
+}
